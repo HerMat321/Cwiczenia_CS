@@ -1,0 +1,15 @@
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/obj/Debug/net9.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/obj/Debug/net9.0/Program.AssemblyInfoInputs.cache
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/obj/Debug/net9.0/Program.AssemblyInfo.cs
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/obj/Debug/net9.0/Program.csproj.CoreCompileInputs.cache
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/obj/Debug/net9.0/Program.sourcelink.json
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/bin/Debug/net9.0/Program
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/bin/Debug/net9.0/Program.deps.json
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/bin/Debug/net9.0/Program.runtimeconfig.json
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/bin/Debug/net9.0/Program.dll
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/bin/Debug/net9.0/Program.pdb
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/obj/Debug/net9.0/Program.dll
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/obj/Debug/net9.0/refint/Program.dll
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/obj/Debug/net9.0/Program.pdb
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/obj/Debug/net9.0/Program.genruntimeconfig.cache
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World/Program/obj/Debug/net9.0/ref/Program.dll
