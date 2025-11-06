@@ -1,0 +1,15 @@
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/bin/Debug/net9.0/kolejny_program
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/bin/Debug/net9.0/kolejny_program.deps.json
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/bin/Debug/net9.0/kolejny_program.runtimeconfig.json
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/bin/Debug/net9.0/kolejny_program.dll
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/bin/Debug/net9.0/kolejny_program.pdb
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/obj/Debug/net9.0/kolejny_program.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/obj/Debug/net9.0/kolejny_program.AssemblyInfoInputs.cache
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/obj/Debug/net9.0/kolejny_program.AssemblyInfo.cs
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/obj/Debug/net9.0/kolejny_program.csproj.CoreCompileInputs.cache
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/obj/Debug/net9.0/kolejny_program.sourcelink.json
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/obj/Debug/net9.0/kolejny_program.dll
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/obj/Debug/net9.0/refint/kolejny_program.dll
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/obj/Debug/net9.0/kolejny_program.pdb
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/obj/Debug/net9.0/kolejny_program.genruntimeconfig.cache
+/home/mateusz/Programowanie/C#/Cwiczenia/Hello_World_3/kolejny_program/obj/Debug/net9.0/ref/kolejny_program.dll
