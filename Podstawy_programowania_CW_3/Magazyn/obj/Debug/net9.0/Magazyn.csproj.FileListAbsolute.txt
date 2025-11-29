@@ -1,0 +1,15 @@
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/bin/Debug/net9.0/Magazyn
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/bin/Debug/net9.0/Magazyn.deps.json
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/bin/Debug/net9.0/Magazyn.runtimeconfig.json
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/bin/Debug/net9.0/Magazyn.dll
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/bin/Debug/net9.0/Magazyn.pdb
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/obj/Debug/net9.0/Magazyn.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/obj/Debug/net9.0/Magazyn.AssemblyInfoInputs.cache
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/obj/Debug/net9.0/Magazyn.AssemblyInfo.cs
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/obj/Debug/net9.0/Magazyn.csproj.CoreCompileInputs.cache
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/obj/Debug/net9.0/Magazyn.sourcelink.json
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/obj/Debug/net9.0/Magazyn.dll
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/obj/Debug/net9.0/refint/Magazyn.dll
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/obj/Debug/net9.0/Magazyn.pdb
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/obj/Debug/net9.0/Magazyn.genruntimeconfig.cache
+/home/mateusz/Programowanie/C#/Cwiczenia/Podstawy_programowania_CW_3/Magazyn/obj/Debug/net9.0/ref/Magazyn.dll
