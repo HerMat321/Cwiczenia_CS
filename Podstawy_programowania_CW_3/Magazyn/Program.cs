@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 class Magazyn
 {
-    static async Task Main()
+    static void Main()
     {
         //Wyciszenie warningów na początku programu
         #pragma warning disable
@@ -91,7 +91,7 @@ class Magazyn
 
                 Console.WriteLine(komunikat);
                 Console.WriteLine();
-                await Task.Delay(1500); 
+                System.Threading.Thread.Sleep(1500); 
             }
             else if (wybor == 2)
             {
@@ -140,20 +140,20 @@ class Magazyn
                 Console.WriteLine("Dodałeś produkt do magazynu!");
                 Console.WriteLine();
                 Console.WriteLine($"Aktualna ilość produktu na stanie magazynu: {ilosc_na_stanie}");
-                await Task.Delay(1500); 
+                System.Threading.Thread.Sleep(1500); 
             }
             else if (wybor == 3)
             {
                 Console.WriteLine("Wyświetlasz sumę zakupów!");
                 Console.WriteLine($"{zaokroglony_portfel} PLN");
                 Console.WriteLine();
-                await Task.Delay(1500); 
+                System.Threading.Thread.Sleep(1500); 
             }
             else if (wybor == 4)
             {
                 Console.WriteLine();
                 Console.WriteLine("Miłego dnia!");
-                await Task.Delay(1500);
+                System.Threading.Thread.Sleep(1500);
                 flaga = false;
                 break;
             }
@@ -162,7 +162,7 @@ class Magazyn
                 Console.WriteLine();
                 Console.WriteLine("Wybrałeś niewsłaściwą opcję :(");
                 Console.WriteLine();
-                await Task.Delay(1000);   
+                System.Threading.Thread.Sleep(1000);   
             }
         }
 
