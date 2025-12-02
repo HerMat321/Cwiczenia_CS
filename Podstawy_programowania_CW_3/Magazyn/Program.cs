@@ -28,9 +28,6 @@ class Magazyn
         //Komunikat
         string komunikat = "";
 
-        //Czy produkt jest w tablicy
-        int index = 0;
-
         //Menu
         while(flaga)
         {
@@ -98,6 +95,9 @@ class Magazyn
                 Console.Write("Wpisz nazwę produktu który chcesz dodać: ");
                 string dodawany_produkt = Console.ReadLine();
 
+                //Czy produkt jest w tablicy - dajemy -1 bo tablica zaczyna sie od 0 (czyli -1 oznacza nie znaleziono)
+                int index = -1; 
+
                 //deklaracja zmiennej na zewnatrz instukcji żeby była widziana
                 int ilosc_produktu = 0;
                 int ilosc_na_stanie = 0;
@@ -111,36 +111,43 @@ class Magazyn
                         index = i;
                         break;
                     }
-
-
-                    //Produkt istnieje
-                    if (index != -1)
-                    {
-                        Console.Write("Wpisz ilość produktu który chcesz dodać: ");
-                        ilosc_produktu = int.Parse(Console.ReadLine());
-                        ilosc[i] += ilosc_produktu;
-                        ilosc_na_stanie = ilosc[i];
-                        break;
-                    }
-                    else //Produkt nie istnieje
-                    {
-                        Console.Write("Wpisz ilość produktu który chcesz dodać: ");
-                        ilosc_produktu = int.Parse(Console.ReadLine());
-                        Console.Write("Wpisz cenę produktu który chcesz dodać: ");
-                        double cena_produktu = double.Parse(Console.ReadLine());
-
-                        //Dodawanie produktu na koniec tablicy
-                        nazwa[i + 1] = dodawany_produkt;
-                        ilosc[i + 1] = ilosc_produktu;
-                        cena[i + 1] = cena_produktu;
-                        break;
-                    }
                 }
 
-                Console.WriteLine("Dodałeś produkt do magazynu!");
-                Console.WriteLine();
-                Console.WriteLine($"Aktualna ilość produktu na stanie magazynu: {ilosc_na_stanie}");
-                System.Threading.Thread.Sleep(1500); 
+                //Produkt istnieje
+                if (index != -1)
+                {
+                    Console.Write("Wpisz ilość produktu który chcesz dodać: ");
+                    ilosc_produktu = int.Parse(Console.ReadLine());
+                    ilosc[index] += ilosc_produktu;
+                    ilosc_na_stanie = ilosc[index];
+
+
+                    Console.WriteLine("Dodałeś produkt do magazynu!");
+                    Console.WriteLine();
+                    Console.WriteLine($"Aktualna ilość produktu na stanie magazynu: {ilosc_na_stanie}");
+                    System.Threading.Thread.Sleep(1500); 
+                }
+                else //Produkt nie istnieje
+                {
+                    Console.Write("Wpisz ilość produktu który chcesz dodać: ");
+                    ilosc_produktu = int.Parse(Console.ReadLine());
+                    Console.Write("Wpisz cenę produktu który chcesz dodać: ");
+                    double cena_produktu = double.Parse(Console.ReadLine());
+
+                    //Dodawanie produktu na koniec tablicy 
+                    nazwa[dlugosc_tablicy] = dodawany_produkt;
+                    ilosc[dlugosc_tablicy] = ilosc_produktu;
+                    cena[dlugosc_tablicy] = cena_produktu;
+
+                    dlugosc_tablicy++;
+
+
+                    Console.WriteLine("Dodałeś produkt do magazynu!");
+                    Console.WriteLine();
+                    Console.WriteLine($"Aktualna ilość produktu na stanie magazynu: {ilosc_na_stanie}");
+                    System.Threading.Thread.Sleep(1500); 
+                }
+
             }
             else if (wybor == 3)
             {
